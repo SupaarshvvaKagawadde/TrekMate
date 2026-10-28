@@ -10,7 +10,7 @@
 
 An enterprise-grade, role-based trekking expedition management platform built on the **MERN (MongoDB, Express, React, Node.js)** stack. Designed to streamline outdoor adventure logistics, TrekMate provides dedicated interfaces for **System Administrators**, **Expedition Staff Guides**, and **Trekkers**, featuring real-time seat inventory reservation, interactive Markdown trail itineraries, Cloudinary-backed media pipelines, and dynamic analytics.
 
-Demonstration video link - https://youtu.be/YFC5befc--4?si=pLbtmIkqA5ad4Sqj
+Demonstration video link - https://drive.google.com/file/d/1n2bEh01sSnD45g-cy0zY4bF6mYwAp8F4/view?usp=drivesdk
 ---
 
 ## 📌 Table of Contents
@@ -352,6 +352,3 @@ Production startup validates `JWT_SECRET` and requires a `mongodb://` or `mongod
 
 ---
 
-## 📄 License & Credits
-Developed as an Academic Capstone Project. Open source under the [MIT License](LICENSE).
-Trek photography assets sourced and licensed via [Wikimedia Commons](https://commons.wikimedia.org/) under Creative Commons.
