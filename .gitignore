@@ -1,0 +1,19 @@
+node_modules/
+client/dist/
+
+# Environment files (keep example files tracked)
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+.DS_Store
+
+# Seed scripts
+server/seed-additional-users.js
+server/seed-staff.js
+server/seed-treks.js
+server/seed-users.js
+server/migrate-treks-to-cloudinary.js
+server/staff_data.md
+server/users_data.md
